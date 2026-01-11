@@ -34,18 +34,29 @@ SpendSense is a modern web-based personal finance tool that enables users to tra
 
 ---
 
-## 📸 Suggested Screenshots
+## 📸 Screenshots & UI Preview
 
-> Add after uploading
-> Recommended pages to showcase:
+### Login
+<img src="screenshots/login.png" width="700"/>
 
-- Login Page
-- Dashboard Overview
-- Expense Table
-- Goals Page
-- Analytics (Charts)
-- AI Insights / Forecast
-- PDF Report Output
+### Dashboard
+<img src="screenshots/Dashboard.png" width="700"/>
+
+### Analytics / Spending Insights
+<img src="screenshots/analysis.png" width="700"/>
+
+### AI Insights & Forecast
+<img src="screenshots/AI insights.png" width="700"/>
+
+### Goals & Savings Progress
+<img src="screenshots/goal.png" width="700"/>
+
+### Signup
+<img src="screenshots/signup.png" width="700"/>
+
+### PDF Report Export
+<img src="screenshots/report.png" width="700"/>
+
 
 ---
 
